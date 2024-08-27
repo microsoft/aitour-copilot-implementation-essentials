@@ -3,6 +3,7 @@
 
 # BRK410: Copilot Implmentation Essentials
 
+![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/session-cover.png)
 
 ## Session Desciption
 
