@@ -1,7 +1,3 @@
-## TODO:
-Update this page as you see fit to properly train a future presenter of your content. A past train the trainer repo is included below for your assitance, but feel free to make any changes.
-
-Note: Please make sure to update any links within the markdown so they point to the correct file.
 
 ## How To Use
 
@@ -20,50 +16,48 @@ code.
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| PowerPoint        | - [Presentation](presentations.md) | Slides |
-| PPT Recording     | - [Presentation](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Video Recording of the PowerPoint slides with no audio |
-| Videos            | - [Microsoft Ignite Orlando Recording](https://myignite.techcommunity.microsoft.com/sessions/84354) | Example Presetations of this Session |
-| Demos             | - [Demo 1 - Exploring a Modern Data Warehouse](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | Additional Demo Content | 
-| Demo Recordings           | - [Data10 - Prequisites](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10_Prerequisites-NoAudio.mp4) | Recording of the Demo Live 1 | 
-| Demo Recordings           | - [Data10 - Demo](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4 ) | Recording of the Demo Live 2 | 
+| PowerPoint        | - [Presentation](https://aka.ms/AArzdjq) | Slides |
+| PPT Recording     | -  | Video Recording of the PowerPoint slides |
+
 
 ## Get Started
 
 This training repository is divided in to the following sections:
 
-| [Slides](#slides) | [Demos](demos/README.md) | [Deployment](deployment/README.md) | 
-|-------------------|---------------------------|--------------------------------------
-| 28 slides - 30 minutes| 1 demos - 15 minutes | Demo setup
-
-## Slides
-
-The [slides](presentations.md) have presenter notes in each part of the session
+| Slides |
+|-------------------|
+| 54 slides - 45 minutes| 
 
 ### Timing
 
-| Time        | Description 
---------------|-------------
-0:00 - 5:00   | Intro to the session 
-5:00 - 15:00  | Why Modern Data Warehousing
-15:00 - 20:00 | Building the Modern data warehouse
-20:00 - 35:00 | Designing a modern data warehouse solution
-35:00 - 40:00 | The evolution of cloud scale analytics
-40:00 - 45:00 | Session review
+**Act 1: The Implementation Framework - 6 mins**
+------------------------------------------------
 
-## Deployment / Preparation
+**The journey**
+Understand the 3 distinct journeys toward becoming AI powered
 
->**What's Here?** Deploying the demo environment on Azure - including the prerequisites.
+**Implementation Framework Overview**
+Review highlights of each pillar both for UE & TR
 
-[Instructions and prerequisites are outlined here](deployment/README.md). 
+**Accelerating value** 
+Leadership journey; accelerated project plan and Viva for Copilot  enablement slide
+Intro to key functions + function specific solutions
 
+**Act 2: Technical guidance and tool demonstrations - 20 mins**\
+---------------------------------------------------------------
 
-## Demos
+Good; better, best methodology for data & security governance
+High level overview with call outs to deep dive content
+Demonstration of configuration tools for Optimization assessment and policy management
 
-> **What's Here?** Pre-delivery preparation, stage ready videos, required files (such as JSON templates), and walk-through videos
+**License deployment best practices**
+Show tools and discuss intelligent cohort selection
 
-Detailed explanations of each demonstration associated with this presentation can be found in this section. There are 3 "live from stage" technical demonstrations that utilize a number of tools both in and out of Azure. [You can get a high level overview of the tools and how we will be using them here](demos/README.md).
+**Act 3: User Enablement & Realizing Value - 15 mins**
+--------------------------------------------
 
-| Demo 	                                                                                               | Minutes | Video |
--------------------------------------------------------------------------------------------------------|---------|----------------- | 
-|  [1 - Exploring a Modern Data Warehouse](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | 15       | [Link](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4) |
+UE Essentials
 
+Measurement, reporting and high value scenario extensibility
+
+**Resources and community to stay connected as you mature your journey.**
