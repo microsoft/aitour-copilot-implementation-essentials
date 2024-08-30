@@ -19,7 +19,7 @@ The community is here to provide ongoing assistance as you expand your ​AI cap
 ## Technology Used
 
 ## Training Resources and Continued Learning
-For Training Resources :  [Training](train-the-trainer/README.md)
+For Training Resources :  [Training](session-delivery-resources/README.md)
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
